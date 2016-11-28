@@ -1,0 +1,74 @@
+/*! arbuzz.css © yamoo9.net, 2016 */
+body {
+	margin: 0;
+}
+
+.box {
+	float: left;
+	font-size: 2em;
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	text-transform: uppercase;
+	
+	line-height: 160px;
+	color: #000;
+	border-radius: 5px;
+}
+
+.box.contents_header {
+	background-image: url(../images/header/woman.jpg);
+	width: 940px;
+	height: 580px; 
+}
+
+.box.contents1 {
+	background-image: url(../images/banner/shoes.jpg);
+
+}
+
+.box.contents2 {
+	background-image: url(../images/banner/leather-bags.jpg);
+
+}
+
+.box.contents3 {
+	background-image: url(../images/banner/woman.jpg);
+	height: 620px;
+
+}
+
+.box.contents4 {
+	background-image: url(../images/banner/collection.jpg);
+	width: 620px;
+	margin-top: -300px;
+}
+
+.box.contents5 {
+	background-image: url(../images/products/flowy-printed-dress.jpg);
+	width: 220px;
+
+}
+
+.box.contents6 {
+	background-image: url(../images/products/fitted-dress.jpg);
+	width: 220px;
+
+}
+
+.box.contents7 {
+	background-image: url(../images/products/fluted-hem-dress.jpg);
+	width: 220px;
+
+}
+
+.box.contents8 {
+	background-image: url(../images/products/textured-pleats-dress.jpg);
+	width: 220px;
+
+}
+
+.grid-container {
+	margin: 0 auto;
+}
+
